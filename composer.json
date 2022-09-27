@@ -1,0 +1,19 @@
+{
+    "name": "alexis/api",
+    "description": "Api tekissa",
+    "autoload": {
+        "psr-4": {
+            "Alexis\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alexis90210",
+            "email": "alexisng90210@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "altorouter/altorouter": "^2.0"
+    }
+}
