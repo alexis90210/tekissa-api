@@ -1,6 +1,6 @@
 {
     "name": "alexis/api",
-    "description": "Api tekissa",
+    "description": "Api",
     "autoload": {
         "psr-4": {
             "Alexis\\Api\\": "src/"

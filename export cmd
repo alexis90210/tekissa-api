@@ -1,2 +1,2 @@
-mysqldump -u root -p mboka > mboka.sql
+mysqldump -u root -p egliseiccniamey > egliseiccniamey.sql
 

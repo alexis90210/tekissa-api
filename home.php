@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex,nofollow"/>
-    <title>Tekissa home</title>
+    <title>API Base</title>
 
     <style>
         body {
@@ -40,7 +40,7 @@
         <span>
 
             <br>
-            Welcome to Tekissa Home
+            API Services
         </span>
     </div>
 
